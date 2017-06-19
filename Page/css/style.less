@@ -1,0 +1,60 @@
+body{
+    font-family: "微软雅黑";
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+//定义一个变量
+/* 定一个变量*/
+@width:960px;
+@height:400px;
+#head{
+    .pos(r);
+   .pub(100px,red);
+}
+#foot{
+    .pub(200px,green);
+
+}
+//定义一个无参数  混合
+.public{
+    width: @width;
+    margin: 0 auto;
+}
+
+//定义一个有参数的混合
+.pub(@height,@color){
+    width: @width;
+    height: @height;
+    margin: 0 auto;
+    background-color: @color;
+}
+#head ul{
+    .pos(a);
+    left: 100px;
+    top: 50px;;
+    margin-left: 100px;
+    li{
+//      float: left;
+        list-style: none;
+        a{
+            color: blue;
+        }
+        a:hover{
+            color: white;
+        }
+    }
+}
+
+//匹配模式--根据出入的元素匹配混合的默认呈现
+.pos(r){
+    position: relative;
+}
+.pos(a){
+    position: absolute;
+}
+//6、参数@arguments
+.bor(@w,@color,@style){
+    border: @w @color @style; //等价于border:@arguments
+}

@@ -1,0 +1,264 @@
+.logo_shop{
+	width: 100%;
+	overflow: hidden;
+	border-bottom: 1px solid #CCCCCC;
+}
+.logo_shop .my-shopt{
+	width:1000px ;
+	margin: 0 auto;
+}
+.html_01{
+	width: 100%;
+	overflow:hidden;
+}
+.logo_shop .my-shopt1{
+	float: left;
+	width: 1000px;
+	height: 100px;
+	text-align: center;
+}
+.logo_shop .my-shopt1 .ugo_com{
+	float: left;
+	width: 300px;
+	height: 100px;
+	margin-top: 20px;
+}
+.my-shopt2{
+	display: block;
+	text-align: center;
+	margin: 25px 30px 0 0;
+	float: right;
+}
+.my-shopt2 dl{
+	float: left;
+	position: relative;
+	top: -2px;
+	border-top: 2px solid #ddd;
+}
+.my-shopt2 .done{
+	border-top-color: #FF504A;
+	width: 90px;
+}
+.my-shopt2 dl{
+	float: left;
+	position: relative;
+	width: 180px;
+	top: -2px;
+}
+.my-shopt2 .done dt{
+	position: relative;
+	margin: -10px auto 0;
+	color: #fff;
+	width: 18px;
+	height: 18px;
+	left: -45px;
+	line-height: 18px;
+	background: url(../imgs/icons-02.png) no-repeat 0 0 ;
+}
+.my-shopt2 .done dd{
+	color: #FF504A;
+	left: -45px;
+	position: relative;
+	margin-top: 5px;
+}
+.my-shopt2 dt{
+	position: relative;
+	margin: -10px auto 0;
+	color: #fff;
+	width: 18px;
+	height: 18px;
+	line-height: 18px;
+	background: url(../imgs/icons-02.png) no-repeat 0 -20px;
+}
+.my-shopt2 dd{
+	color: #666;
+	position: relative;
+	margin-top: 5px;
+}
+.my-shopt2 .last{
+	width: 90px;
+}
+.my-shopt2 .last dt{
+	left: 45px;
+}
+.my-shopt2 .last dd{
+	left: 45px;
+}
+.my-cart0{
+	font-size: 16px;
+}
+.kuang_02{
+	padding-bottom: 40px;
+	overflow:hidden;
+	border: 1px solid #E8E8E8;
+	margin-top: 10px;
+}
+.message{
+	height: 40px;
+	background: #F2F2F2;
+	color: #666;
+	line-height: 40px;
+	border-bottom: 1px  solid #e8e8e8;
+}
+.message .me_left{
+	float: left;
+}
+.message .me_left a{
+	margin-left: 60px;
+}
+.me_right a{
+	margin-right: 85px;
+	color: #666;
+}
+.me_right{
+	float: right;
+}
+.s_left a:nth-child(2) img{
+	border: 1px solid #DDDDDD;
+	width: 80px;
+	height: 80px;
+	margin-left: 10px;
+	float: left;
+	margin-top: 20px;
+}
+.s_left a:nth-child(3){
+	margin-top: 20px;
+	float: left;
+	margin-left: 10px;
+}
+.s_left a:nth-child(1){
+	line-height: 100px;
+	margin-left: 60px;
+	float: left;
+}
+.shngpin{
+	overflow: hidden;
+	display: block;
+	margin-bottom: 30px;
+}
+.s_left{
+	float: left;
+	width:400px;
+	overflow: hidden;
+}
+.s_right{
+	height:102px;
+	float: right;
+	overflow: hidden;
+}
+.s_right a{
+	margin-top: 50px;
+	float: left;
+	margin-right:85px;
+	color: ddd;
+}
+.s_right a:nth-child(3){
+	font-size: 14px;
+	color: #d;
+}
+.s_right a:nth-child(4){
+	width: 18px;
+	height: 20px;
+	cursor: pointer;
+	background: url(../imgs/icons-02.png) no-repeat 0 -149px;
+	
+}
+.s_right a:nth-child(4):hover{
+	background: url(../imgs/icons-02.png) no-repeat 0 -125px;
+}
+.s_right a:nth-child(2) span:nth-child(1){
+	padding: 4px 8px 4px 8px;
+	border: 1px solid #DDDDDD;
+	float: left;
+	cursor: pointer;
+}
+.s_right a:nth-child(2) span:nth-child(2){
+	float: left;
+	border-top: 1px solid #DDDDDD;
+	border-bottom: 1px solid #DDDDDD;
+}
+.s_right a:nth-child(2) span:nth-child(2) input{
+	width:24px;
+	border: 0;
+	height: 26px;
+	text-align: center;
+}
+.s_right a:nth-child(2) span:nth-child(3){
+	float: left;
+	padding: 4px 8px 4px 8px;
+	border: 1px solid #DDDDDD;
+	cursor: pointer;
+}
+.closing{
+	overflow: hidden;
+	width: 998px;
+	margin-top: 20px;
+	border: 1px solid #DDDDDD;
+}
+.closing .closing_1{
+	display: block;
+	margin-top: 10px;
+	width:250px;
+	float: right;
+}
+.closing .closing_1 p{
+	line-height: 30px;
+	height: 30px;
+	font-size: 14px;
+}
+.closing .closing_1 p span{
+	float:right;
+	margin-right: 20px;
+	font-size: 14px;
+}
+.closing .closing_1 p:nth-child(1) i{
+	font-style: normal;
+	color: #F70800;
+}
+.logo_shop .closing .closing_1 p:nth-child(3) span{
+	color: #F70800;
+	font-style: 20px;
+}
+.jies{
+	margin-top: 120px;
+	width: 998;
+	height:50px;
+	background: #F2F2F2;
+	}
+	.jies .left_ll{
+		float: left;
+		line-height: 50px;
+	}
+	.jies .left_ll a{
+		margin-left: 60px;
+	}
+	.jies a:nth-child(2){
+		color: #666;
+		margin-left: 20px;
+		margin-top: 18px;
+		cursor: pointer;
+		}
+    .jies .left_ll a:nth-child(2) i:hover{
+	 background: url(../imgs/icons-02.png) no-repeat 0 -125px;
+	 }
+		.jies a:nth-child(2) i{
+		margin-top: 5px;
+		width: 17px;
+		height: 20px;
+		background-position: -32px -127px;
+		display: inline-block;
+		margin-right: 5px;
+		cursor: pointer;
+		background: url(../imgs/icons-02.png) no-repeat 0 -149px;
+}
+.right_rr{
+	cursor: pointer;
+	float: right;
+	width: 160px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 18px;
+	color: #fff;
+	background-color: #ff504a;
+	line-height: 50px;
+}

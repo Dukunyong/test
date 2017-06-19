@@ -1,0 +1,7 @@
+/*改变默认样式*/
+h1,h2,h3,h4,ul,ol,li,dt, dd,td,img,form, input,p,html,body{margin:0; padding:0;}
+		a{text-decoration:none;}
+		ul,li{list-style:none;}
+		img{border:none; display:block;}
+		body{font-family:"微软雅黑"; font-size:12px; }
+		html,body{width: 100%; height: 100%;}

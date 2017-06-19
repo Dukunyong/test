@@ -1,0 +1,170 @@
+.top_yi i{
+	font-style: normal;
+	color: #F70800;
+	font-size: 14px;
+}
+.land{
+	overflow:hidden;
+	border: 2px solid #ff8400;
+	width: 964px;
+	display: block;
+	margin-bottom: 50px;
+}
+.land .land_con_l{
+	float: left;
+	width: 532px;
+	padding-left: 133px;
+	color: #666;
+	padding-top: 62px;
+}
+.land .land_con_l .land_item{
+	width: 351px;
+	height: 65px;
+}
+.land .land_con_l .land_item span{
+	display: block;
+	height: 12px;
+	padding-bottom: 7px;
+}
+.item-ifo{
+	position: relative;
+	z-index: 1;
+}
+.item-ifo #yhm_text{
+	display: block;
+	width: 315px;
+	padding: 5px 25px 5px 10px;
+	height: 25px;
+	line-height: 25px;
+	border: 1px solid #a2a2a2;
+}
+.item-ifo .i-name{
+	width: 16px;
+	height: 19px;
+	background: url(../imgs/welland.gif) no-repeat 0 -229px;
+	position: absolute;
+	top: 8px;
+	right: 9px;
+	z-index: 10;
+}
+.item-ifo #tips1{
+	display: none;
+	height: 20px;
+	width: 340px;
+	color: #eb0007;
+	padding-left: 10px;
+	line-height: 20px;
+	border: 1px solid #ffadb0;
+	background-color: #fff3f3;
+	position: absolute;
+	z-index: 999;
+	left: 0;
+	top: 37px;
+}
+.item-ifo #tips1 span{
+	display: block;
+	height: 12px;
+	padding-bottom: 7px;
+}
+.lan_items2{
+	padding-top: 52px;
+	width:351px;
+	height: 37px;
+}
+.ladpasw{
+	width: 16px;
+	height: 19px;
+	position: absolute;
+	top: 8px;
+	right: 9px;
+	z-index: 10;
+	background: url(../imgs/welland.gif) 0 -251px no-repeat;
+}
+.lan_items2 input{
+	float: left;
+	display: block;
+	width: 13px;
+	height: 13px;
+}
+.lan_items2 .l{
+	margin-left: 10px;
+}
+.lan_items2 .r a{
+	color: #0089cf;
+	float:right;
+}
+.login-btn{
+	padding-bottom: 100px;
+	width:351px;
+	height: 40px;
+}
+.login-btn input{
+	width: 351px;
+	height: 37px;
+	background: url(../imgs/welland.gif) no-repeat 0 -117px;
+	cursor: pointer;
+	border: none;
+}
+.lan-con{
+	width: 217px;
+	float: right;
+	height: 316px;
+	background: #fff6ec;
+	padding-left: 82px;
+	padding-top: 58px;
+}
+.lan-con .land_items{
+	height: 50px;
+	line-height: 30px;
+}
+.lan-con .land_items span{
+	font-size: 15px;
+	color: #555;
+}
+.lan-con .land_items input{
+	width: 142px;
+	height: 32px;
+	border: none;
+	background:url(../imgs/welland.gif) no-repeat 0 -155px;
+	line-height: 32px;
+	color: #ff6000;
+	margin-top: 10px;
+	text-decoration: underline;
+	cursor: pointer;
+	}
+.land_item_1{
+	padding-top: 50px;
+}
+.land_item_1 span{
+	font-size: 15px;
+	color: #555;
+}
+.land_item_1  input{
+	width: 142px;
+	height: 32px;
+	border: none;
+	background:url(../imgs/welland.gif) no-repeat 0 -155px;
+	line-height: 32px;
+	color: #ff6000;
+	margin-top: 10px;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
