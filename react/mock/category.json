@@ -1,0 +1,51 @@
+
+{
+	"ret":true,
+	"data": {
+		"categories" : [{
+			"category_id" : 1,
+			"category_name" : "大家说英语",
+			"icon" : "appstore"
+		},{
+			"category_id" : 2,
+			"category_name" : "彭蒙英语",
+			"icon" : "star"
+		},{
+			"category_id" : 3,
+			"category_name" : "voa慢速英语",
+			"icon" : "heart-o"
+		},{
+			"category_id" : 4,
+			"category_name" : "走遍英国",
+			"icon" : "customer-service"
+		},{
+			"category_id" : 5,
+			"category_name" : "英文明珠",
+			"icon" : "switcher"
+		},{
+			"category_id" : 6,
+			"category_name" : "托福考试",
+			"icon" : "save"
+		},{
+			"category_id" : 7,
+			"category_name" : "美国脱口秀",
+			"icon" : "message"
+		},{
+			"category_id" : 8,
+			"category_name" : "BBC听力资料",
+			"icon" : "exception"
+		},{
+			"category_id" : 9,
+			"category_name" : "voa常速英语",
+			"icon" : "bulb"
+		},{
+			"category_id" : 10,
+			"category_name" : "大家说英语",
+			"icon" : "flag"
+		},{
+			"category_id" : 11,
+			"category_name" : "外教课堂",
+			"icon" : "skin"
+		}]
+	}
+}

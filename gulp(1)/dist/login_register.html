@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>注册登录</title>
+		<link rel="stylesheet" type="text/css" href="./css/index.css">
+		<meta name="viewport" content="width=device-width, user-scalable=no">
+	</head>
+	<body class="login_register">
+		<header class="border-top">
+			<h1 class="title">注册/登录</h1>
+		</header>
+		<form class="login js-login" method="post" action="./users/login">
+			<input type="text" name="uname" id="uname" placeholder="请输入用户名"/>
+			<input type="text" name="upwd" id="upwd" placeholder="请输入密码"/>
+			<input type="submit" value="登录" />
+			<span>没有账号？<a href="#">立即注册</a></span>
+		</form>
+		<form class="login js-register none" method="post" action="./users/register">
+			<input type="text" name="uname" id="uname" placeholder="请输入用户名"/>
+			<input type="text" name="upwd" id="upwd" placeholder="请输入密码"/>
+			<input type="submit" value="注册" />
+			<span>已有账号<a href="#">立即登录</a></span>
+		</form>
+		
+		
+		<script src="./js/bundle.js"></script>
+		<script src="./js/login_register.js"></script>
+	</body>
+</html>

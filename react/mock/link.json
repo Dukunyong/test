@@ -1,0 +1,110 @@
+{
+	"ret":true,
+	"data": {
+		"text" : [{
+			"category_id" : 1,
+			"category_name" : "小马过河"
+			
+		},{
+			"category_id" : 2,
+			"category_name" : "雅思培训"
+			
+		},{
+			"category_id" : 3,
+			"category_name" : "留学机构"
+			
+		},{
+			"category_id" : 4,
+			"category_name" : "出国语言培训"
+			
+		},{
+			"category_id" : 5,
+			"category_name" : "大学生"
+			
+		},{
+			"category_id" : 6,
+			"category_name" : "人人听力网"
+			
+		},{
+			"category_id" : 7,
+			"category_name" : "英语口语"
+			
+		},{
+			"category_id" : 8,
+			"category_name" : "口译"
+			
+		},{
+			"category_id" : 9,
+			"category_name" : "美国之音"
+			
+		},{
+			"category_id" : 10,
+			"category_name" : "给力英语网"
+			
+		},{
+			"category_id" : 11,
+			"category_name" : "中小学教育"
+			
+		},{
+			"category_id" : 12,
+			"category_name" : "GCT"
+			
+		},{
+			"category_id" : 13,
+			"category_name" : "英语六级"
+			
+		},{
+			"category_id" : 14,
+			"category_name" : "英语学习网站"
+			
+		},{
+			"category_id" : 15,
+			"category_name" : "泰语学习网站"
+			
+		},{
+			"category_id" : 16,
+			"category_name" : "英蕊幼儿英语"
+			
+		},{
+			"category_id" : 17,
+			"category_name" : "手抄报"
+			
+		},{
+			"category_id" : 18,
+			"category_name" : "简单学习网"
+			
+		},{
+			"category_id" : 19,
+			"category_name" : "哈尔滨英语"
+			
+		},{
+			"category_id" : 20,
+			"category_name" : "英语口语培训"
+			
+		},{
+			"category_id" : 21,
+			"category_name" : "在线英语培训"
+			
+		},{
+			"category_id" : 22,
+			"category_name" : "英语培训"
+			
+		},{
+			"category_id" : 23,
+			"category_name" : "韩语学习网"
+			
+		},{
+			"category_id" : 24,
+			"category_name" : "职称英语考试"
+			
+		},{
+			"category_id" : 25,
+			"category_name" : "家教"
+			
+		},{
+			"category_id" : 26,
+			"category_name" : "在线英语培训"
+			
+		}]
+	}
+}          

@@ -1,0 +1,169 @@
+#root{
+	background:#EDF8FE url(/src/img/background.jpg) no-repeat center top;
+	
+}
+.main {
+	width: 1024px;
+	margin: 0 auto;
+}
+.logo {
+	display: block;
+	width: 150px;
+	height: 95px;
+	margin: 0 auto;
+}
+.ant-btn-primary{
+	display: block;
+	margin-top: 20px;
+}
+.js-header .ant-col-4{
+	width: 14%;
+}
+.js-header .log-reg-btn{
+	padding: 0 10px;
+}
+.js-header .ant-menu-item{
+	padding: 0 5px;
+}
+.footer{
+	text-align: center;
+	margin-top: 20px;
+}
+.index-content .ant-card-bordered{
+	border: 0.5px solid red;
+}
+.index-content{
+	
+	background: green;
+}
+.article-item{
+	line-height: 26px;
+	font-size: 14px;
+}
+.article-item-category{
+	padding-right: 10px;
+}
+.article-item-new{
+	padding-left: 10px;
+	color:red;
+}
+.Link-footer{
+	background: pink;
+}
+.ant-card-head-title{
+	padding-left: 10px;
+	background:pink;
+}
+ 
+.ant-col-24 .ant-menu-horizontal{
+	border: none;
+}
+.ant-card .ant-card-head{
+	padding: 0;
+}
+.js-link .ant-menu-item{
+	padding:0 ;
+	width: 5.75rem;
+	line-height:1.8rem;
+	text-align: center;
+}
+.js-link .ant-card-body{
+	padding: 0;
+}
+ .js-link .ant-card-bordered{
+ 	border:1px solid #000;
+ }
+ .index-footer .footer {
+ 	margin: 0;
+ 	line-height: 30px;
+    text-align: center;
+ }
+.index-footer .ant-menu{
+	line-height: 20px;
+	margin-top: 0;
+}
+ .index-footer .ant-card-bordered{
+ 	margin-top: 20px;
+ }
+.index-footer .ant-card-body{
+	border: 1px solid #ccc;
+	padding: 0;
+}
+.text-color{
+	cursor:  pointer;
+	color: orange;
+}
+.js-lable .ant-card-body{
+padding: 10px 5px;
+}
+.js-lable {
+	margin: 3px 0;
+	border: 1px solid #ccc;
+}
+.ant-card-head-title{
+	padding: 0;
+}
+.js-classify{
+	text-align: center;
+}
+.js-classify .js-border{
+	border: 1px solid pink;
+}
+.js-classify .js-row{
+	border-bottom: 1px solid pink;
+}
+.js-row-s{
+	padding: 8px 0;
+	border-right: 1px solid pink;
+}
+.js-row{
+	background: #674;
+}
+.ant-col-10{
+	padding: 8px 0;
+}
+.js-classify .ant-row{
+	line-height: 30px;
+	cursor:  pointer;
+}
+ .js-clickTop .ant-back-top {
+  position: fixed;
+  bottom: 100px;
+  right: 60px;
+  height: 40px;
+  width: 60px;
+  line-height: 40px;
+  border-radius: 4px;
+  background-color:green;
+  color: #fff;
+  text-align: center;
+  font-size: 12px;
+}
+.js-message{
+	margin: 20px 0;
+	border: 1px solid #000;
+	box-sizing: border-box;
+	border-radius: 4px;
+}
+.detail-comment-top{
+	background: pink;
+	padding: 8px;
+	border-radius: 4px 4px 0 0;
+	 font-size: 12px;
+	 font-weight: 600;
+}
+.message-text{
+	background: pink;
+	padding: 8px;
+	 font-size: 12px;
+	 font-weight: 600;
+}
+.detail-content-comment p{
+	margin: 10px;
+}
+.js-message .ant-btn {
+	margin: 10px 0 20px 450px;
+}
+.article-item-category{
+	color: orange;
+}

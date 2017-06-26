@@ -1,0 +1,12 @@
+{
+	"css": [
+		"src/css/index/index.scss"
+	],
+
+	"js": [
+		"src/js/index/index.js",
+		"src/js/index/product.js",
+		"src/js/index/shopCart.js",
+		"src/js/index/login_register.js"
+	]
+}

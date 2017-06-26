@@ -1,0 +1,19 @@
+//gulp 来确认编译的流程  ，如何编译gulp说的算
+//引入对应的模块
+//按照
+//不推荐使用的原因：
+//
+  "dependencies": {   gulp组件
+    "gulp": "*",
+    "gulp-autoprefixer": "^4.0.0",   增加css厂商前缀的一个工具  
+    "gulp-concat": "^2.6.1",         拼接文件 --合并多个js文件为一个js---(强制合并) 确保作用域不冲突时才可以使用
+    "gulp-connect": "^5.0.0",        监控指定文件变化      -----指定 文件变化时按照你的要求从新编译文件
+    "gulp-less": "^3.3.0",           将多个css模块合并生成一个css
+    "gulp-minify-css": "^1.2.4",     压缩css文件 ---去掉空格和换行等   
+    "gulp-uglify": "^3.0.0",		  压缩js文件  ----将里面的变量等改变  一行显示  js文件的加密代码		
+    "mustache-loader": "^0.4.1",	 ejs
+    "webpack-stream": "^3.2.0"		 打包js
+  },
+webpack可以将文件打包--编译出可以执行的代码
+gulp-concat直接压缩不用编译
+

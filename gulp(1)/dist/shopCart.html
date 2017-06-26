@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>详情页</title>
+	<link rel="stylesheet" type="text/css" href="./css/index.css">
+	<meta name="viewport" content="width=device-width, user-scalable=no">
+</head>
+<body class="shopCart">
+	<!--头部-->
+	<header class="border-top">
+		<h1 class="title">购物车</h1>
+		<a href="#" class="iconfont">结算</a>
+	</header>
+	<!--商品统计-->
+	<div class="productCount">
+		<span>商品数量：<span class="js-totalCount">2</span></span><span class="totalPrice">应付总额(不含运费)：<span>&yen; <span class="js-totalPrice"></span></span></span>
+	</div>
+	<!--商品列表-->
+	<div class="productList-wrapper">
+		<ul class="productList js-productList"></ul>
+	</div>
+	<!--脚部-->
+	<footer>
+		<a href="/" class="iconfont"><span>&#xe644;</span><span>首页</span></a>
+		<a href="/" class="iconfont"><span>&#xe9ba;</span><span>分类</span></a>
+		<a href="/shopCart" class="iconfont"><span>&#xe61b;</span><span>购物车</span></a>
+		<a href="/" class="iconfont"><span>&#xe646;</span><span>我的秀</span></a>
+		<a href="/" class="iconfont"><span>&#xe644;</span><span>更多</span></a>
+	</footer>
+	
+	<script src="./js/bundle.js"></script><!--dist文件路径-->
+	<script src="./js/shopCart.js"></script><!--dist文件路径-->
+	
+</body>
+</html>
