@@ -418,6 +418,16 @@
 			right: 12%;
 			font-size: 30px;
 		}
+		   #panel {
+            position: absolute;
+            background-color: white;
+            max-height: 80%;
+            overflow-y: auto;
+            top: 10px;
+            right: 10px;
+            width: 250px;
+            border: solid 1px silver;
+        }
     </style>
     
     <div class="soundButton js-soundButton" ></div>
@@ -527,6 +537,15 @@
             -->
             <div class="swiper-slide page-seven">			
             	<img src="img/5897ed566da84.png" class="index-bg ani infinite" swiper-animate-effect="pulse" swiper-animate-duration="3.5s" swiper-animate-delay="0.3s">
+            	<div id="mapContainer"></div>
+				<div id="panel">
+				</div>
+            </div>
+            <!--
+				八层
+            -->
+            <div class="swiper-slide page-seven">			
+            	<img src="img/5897ed566da84.png" class="index-bg ani infinite" swiper-animate-effect="pulse" swiper-animate-duration="3.5s" swiper-animate-delay="0.3s">
 				<img src="img/wxhdudu.jpg" class="wxhdudu ani" swiper-animate-effect="fadeIn" swiper-animate-duration="5s" swiper-animate-delay="0.1s" />
 				<img src="img/b29edcf872ca760d363608842554a29.png" class="wxdudu ani" swiper-animate-effect="fadeIn" swiper-animate-duration="5s" swiper-animate-delay="0.1s" />
 				<span class="seven-you">春风十里不如你</span>
@@ -592,9 +611,7 @@
 
     	var page = new Page();
     	page.init();
-
-    	
-
     </script>
+    
 </body>
 </html>
